@@ -1,51 +1,57 @@
 # Note Taker
+## Challenge 11 - UCF Coding Boot Camp
 
-## Table of Contents
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-* Description
-* Installation
-* Usage
-* Contributions
-* Licensing
-* Tests
-* Demo
-* Questions
+## Table of Contents:
+* [General Information](#general)
+* [Installation Instructions](#installation)
+* [Technologies](#technologies)
+* [Credits](#credits)
+* [Screenshots or Video Files](#screenshots)
+* [License](#license)
 
-## Description
+### General Information:
+This is a an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
-This application uses a backend server to store user input as personal notes for users recall, edit, or delete.
+### Installation Instructions:
+In order run the application select my Heroku Link below:
+https://notetakerucf.herokuapp.com/
 
-## Installation
+### Technologies:
+JavaScript, NodeJS, NPM, Express.js, FS, UUID, Heroku, HTML and CSS.
 
-This application can be installed by either cloning the HTTPS address, or running CLI commands in Terminal. You can also visit the deployed page on Heroku at: https://backendnotetaker.herokuapp.com/
+### Credits:
+* Deploy NodeJS and Express API on Heroku: https://www.youtube.com/watch?v=72DYDMP09MM
+* Routing Express.js: https://expressjs.com/en/guide/routing.html
+* MDN Express Node Introduction: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
 
-## Usage
 
-The user only uses the front end to input feedback which is saved into back end servers for later use or disposal.
+### Screenshots or Video Files:
 
-## Contributions
+* Youtube video of the demonstration of the Work Team Profile Generator:
 
-There are no external contributors to this project.
+[![Youtube video of Readme.md Generator](/Images/Tile%20Sheet.jpg)](https://youtu.be/xsc3DpIN-WQ)
 
-## Licensing
+* Play by play screenshots of the command line prompts for the readme questions and the creation of the readme.md:
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+![Screenshot](/assets/noteindex.png),
+![Screenshot](/assets/notes.png).
 
-## Tests
+### License
+This project is licensed under:
+License for this project is MIT
 
-There is no back end testing involved. If working properly, data input should be saved and stored accordingly for the user to either revisit, edit, or dispose of when finished.
+#### Footer:
+This project was developed by:
+Lindsay L Libhart
+Libhartinc@gmail.com
 
-## Demo
+This projects GitHub Repository is:
+https://github.com/LibhartLL/notetaker
 
-Provided below are screenshots and recorded demonstration of how the application works.
+This projects Heroku app deployment link:
+https://notetakerucf.herokuapp.com/
 
-![notesi](assets/noteindex.png)
-
-![notesii](assets/notes.png)
-
-Video link: https://youtu.be/x0djb9VZnA8
-
-## Questions
-
-* You can follow my repositories at https://www.github.com/jarretebarnett
-* For professional inquiries, you can email jarretebarnett@gmail.com
+The Developers GitHub is:
+https://github.com/LibhartLL
