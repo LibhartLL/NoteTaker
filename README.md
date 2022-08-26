@@ -12,7 +12,7 @@
 * [License](#license)
 
 ### General Information:
-This is a an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
+This is a an application called Note Taker that can be used to write and save notes.  The frontend files were already provided.  This application will use an Express.js back end and will save and retrieve note data from a JSON file.  An added feature is the ability to delete saved notes. 
 
 ### Installation Instructions:
 In order run the application select my Heroku Link below:
