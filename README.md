@@ -32,9 +32,9 @@ JavaScript, NodeJS, NPM, Express.js, FS, UUID, Heroku, HTML and CSS.
 
 ### Screenshots or Video Files:
 
-* Youtube video of the demonstration of the Work Team Profile Generator:
+* Video of the demonstration of the Note Taker App:
 
-[![Youtube video of Readme.md Generator](/Images/Tile%20Sheet.jpg)](https://youtu.be/xsc3DpIN-WQ)
+![Video](/assets/NoteTaker.webm)
 
 * Play by play screenshots of the command line prompts for the readme questions and the creation of the readme.md:
 
