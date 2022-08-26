@@ -25,7 +25,10 @@ JavaScript, NodeJS, NPM, Express.js, FS, UUID, Heroku, HTML and CSS.
 * Deploy NodeJS and Express API on Heroku: https://www.youtube.com/watch?v=72DYDMP09MM
 * Routing Express.js: https://expressjs.com/en/guide/routing.html
 * MDN Express Node Introduction: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction
-
+* https://www.geeksforgeeks.org/express-js-app-use-function/
+* https://www.digitalocean.com/community/tutorials/nodejs-express-routing
+* https://www.tabnine.com/code/javascript/functions/express/Express/delete
+* https://www.freecodecamp.org/news/create-a-react-frontend-a-node-express-backend-and-connect-them-together-c5798926047c/
 
 ### Screenshots or Video Files:
 
