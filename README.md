@@ -34,7 +34,8 @@ JavaScript, NodeJS, NPM, Express.js, FS, UUID, Heroku, HTML and CSS.
 
 * Video of the demonstration of the Note Taker App:
 
-![Video](/assets/NoteTaker.webm)
+[![Youtube video of Note Taker App](https://i9.ytimg.com/vi_webp/IoQhck_p0PA/mqdefault.webp?v=6309216b&sqp=COTApJgG&rs=AOn4CLClJdsD_mZMSx9q-bY2f7E9dkEtIQ)](https://youtu.be/IoQhck_p0PA)
+
 
 * Play by play screenshots of the command line prompts for the readme questions and the creation of the readme.md:
 
